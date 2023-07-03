@@ -63,14 +63,3 @@ body{
     box-shadow: 0 0 40px var(--advice-dice-color);
 }
 
-
-    .attribution { 
-        font-size: 11px; 
-        text-align: center;
-        padding-top: 100%;
-        color: var(--text-color)
-     }
-
-    .attribution a {
-         color: hsl(228, 45%, 44%); }
- 
